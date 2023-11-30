@@ -1,0 +1,19 @@
+body {
+  background-image: url("./pic/background.png");
+}
+
+h2{color:goldenrod;
+background-color:wheat ;}
+
+img001 {
+  text-align: center;
+  height: auto;
+  width: auto;
+}
+
+div1 {
+  text-align: center;
+}
+
+buttonleft{opacity: 0.15;color:fuchsia}
+buttonright{opacity: 0.15;color:fuchsia}
